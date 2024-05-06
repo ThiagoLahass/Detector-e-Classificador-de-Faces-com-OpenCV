@@ -33,7 +33,7 @@ Este código é um exemplo simples de reconhecimento facial em tempo real usando
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/ThiagoLahass/Mini-Projeto-IV_detector-classificador-de-faces-com-openCv.git
+   git clone https://github.com/ThiagoLahass/Detector-e-Classificador-de-Faces-com-OpenCV.git
 2. Instale as dependências necessárias:
     ```bash
     pip install numpy opencv-python face-recognition
